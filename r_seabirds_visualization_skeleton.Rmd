@@ -1,0 +1,34 @@
+---
+title: "DataVisSkeleton"
+author: "Richard"
+date: "2022-10-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r Installing packages}
+```
+
+```{r Import libraries}
+```
+
+```{r Read in dataset}
+```
+
+```{r Create bounding box and retrieve satellite map based on latitude and longitude}
+```
+
+```{r Overlay all bird tracks on the map}
+```
+
+```{r Overlay tRAZO birds from colony 2 onto map}
+```
+
+```{r Basic violin plot for longitude across species}
+```
+
+```{r Advanced violin plot for latitude across species}
+```
